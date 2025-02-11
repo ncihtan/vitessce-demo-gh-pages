@@ -40,7 +40,7 @@ export const myViewConfig = {
         embeddingType: "A",
         embeddingZoom: "A"
       },
-      x: 6, y: 0, w: 6, h: 6
+      x: 6, y: 0, w: 6, h: 6, cellRadus: 10
     },
     {
       component: "scatterplot",
