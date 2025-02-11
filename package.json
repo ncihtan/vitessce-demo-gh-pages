@@ -1,5 +1,6 @@
 {
   "name": "vitessce-demo-gh-pages",
+  "homepage": "https://ncihtan.github.io/vitessce-demo-gh-pages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
